@@ -1,4 +1,5 @@
 # Finding-Exoplanets-using-Object-Detection
+# Project by VS Navneet Kanna, Aasees Kaur and Tejas C
 
 ## DATASET 
 Dataset used in this project contains images generated from the data available free and open source at https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS&constraint=default_flag=1&constraint=disc_facility+like+%27%25TESS%25%27. 
