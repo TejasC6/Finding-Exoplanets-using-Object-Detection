@@ -1,5 +1,6 @@
 # Finding-Exoplanets-using-Object-Detection
 # Project by VS Navneet Kanna, Aasees Kaur and Tejas C
+## Guidance of Dr SR Mani Sekhar 
 
 ## DATASET 
 Dataset used in this project contains images generated from the data available free and open source at https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS&constraint=default_flag=1&constraint=disc_facility+like+%27%25TESS%25%27. 
@@ -14,7 +15,7 @@ Upload the **images** and **annoatations** folder to your Google Drive. Open a G
 
 
 ### Converting .png files to .jpg files
-Some the other object detection models like the ones included in this project require the lightcurve images to be in .jpg format instead of .png. In the folder containing the images, run [To convert files to jpg.ipynb](https://github.com/TejasC6/Finding-Exoplanets-using-Object-Detection/blob/main/To%20convert%20files%20to%20jpg.ipynb)
+Some of the other object detection models like the ones included in this project require the lightcurve images to be in .jpg format instead of .png. In the folder containing the images, run [To convert files to jpg.ipynb](https://github.com/TejasC6/Finding-Exoplanets-using-Object-Detection/blob/main/To%20convert%20files%20to%20jpg.ipynb)
 ### Making changes in XML files 
 It is required to make changes in XML files whenever there is a change in directory containing the required image data, while uploading to Drive or simply to make any changes in the XML files run [To change path in XML files.ipynb](https://github.com/TejasC6/Finding-Exoplanets-using-Object-Detection/blob/main/To%20change%20path%20in%20XML%20files.ipynb)
 
