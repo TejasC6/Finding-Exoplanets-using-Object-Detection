@@ -1,4 +1,4 @@
-# Finding-Exoplanets-using-Object-Detection
+# Finding Exoplanets using Object Detection
 # Project by VS Navneet Kanna, Aasees Kaur and Tejas C
 ## Guidance of Dr SR Mani Sekhar
 
